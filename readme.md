@@ -1,4 +1,3 @@
-Improving my Second Semester OOP Project
 Spaceshooter Game Based in C++ and SFML   
 
 # COMPILE AND RUN
